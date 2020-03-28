@@ -5,7 +5,7 @@ time.sleep(2)
 print("LODING...")
 time.sleep(2)
 os.system ('clear')
-print("\033[1;33m=============\033[01;31m=========\033[01;35m=============\033[01;34m==========\033[01;32m==============\033[01;31m welcom  to
+print("\033[1;33m=============\033[01;31m=========\033[01;35m=============\033[01;34m==========\033[01;32m==============\033[01;31mwelcom  to calctour THIS a tool made by:\033[01;34mVIGITAMHS\njoin in my channel in telegram:\n\033[01;32m===>https://t.me/ERROR404VIGITAMHS")
 n1 = int(input('enter number 1==> '))
 n2 = int(input('enter number 2==> '))
 x = int(input('1.[+]\n2.[-]\n3.[×]\n4.[/]\n5.[%]\n===> '))
@@ -24,5 +24,5 @@ elif x == 5:
     print(n1 % n2)
 else:
     print('sorry not found!!')
-
-print("\033[1;33m=============\033[01;31m=========\033[01;35m=============\033[01;34m==========\033[01;32m==============\033[01;31mwelcom  to
+ 
+print("\033[1;33m=============\033[01;31m=========\033[01;35m=============\033[01;34m==========\033[01;32m==============\033[01;31mwelcom  to calctour THIS a tool made by:\033[01;34mVIGITAMHS\njoin in my channel in telegram:\n\033[01;32m===>https://t.me/ERROR404VIGITAMHS")
